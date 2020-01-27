@@ -1,4 +1,9 @@
 # Master Title
 ### This belongs in the master branch
+# Slave Title
+### This belongs in the master branch and is slave 1
+
+Merge worked fine
+
 
 Just a file to add notes.
